@@ -39,3 +39,6 @@ Exploring The Code
    run test`.
 
 Repository link: https://github.com/aishwaryaanaidu/voting-system
+
+Presentation link: https://ind657-my.sharepoint.com/:p:/g/personal/madua01_pfw_edu/EbG_CGQzh8RDg882OslzzyUBv74AT_dKERW7YqhGDGDBPg?e=5dslBV
+
