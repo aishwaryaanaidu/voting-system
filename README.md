@@ -5,10 +5,10 @@ The goal of this application is to help in constructing new polls, including var
 
 Team members
 ===========
-Aishwarya Madupuri Suresh
-Manpreet Singh
-Pramit Gupta
-Pragna Mallikarjuna Swamy
+Aishwarya Madupuri Suresh\
+Manpreet Singh\
+Pramit Gupta\
+Pragna Mallikarjuna Swamy\
 Souvik Mazumder
 
 
